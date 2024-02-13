@@ -1,3 +1,13 @@
+
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&pause=500&color=00FFFF&background=FFFFFF00&center=true&vCenter=true&random=false&width=451&height=65&lines=In+the+realm+of+AI%2C+;imagination+knows+no+bounds." alt="Typing SVG" /></a>
+</h1>
+
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
+
+
+
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar Singh</h1>
 <h3 align="center">A passionate AI & ML Enthusiast, FullStack Developer</h3>
 
