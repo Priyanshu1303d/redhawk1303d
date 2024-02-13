@@ -23,3 +23,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=redhawk1303d&show_icons=true&locale=en" alt="redhawk1303d" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redhawk1303d&" alt="redhawk1303d" /></p>
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
