@@ -1,4 +1,4 @@
-![logo](https://github.com/redhawk1303d/redhawk1303d/blob/main/Banner.png)
+![logo](https://github.com/Priyanshu1303d/Priyanshu1303d/blob/main/Banner.png)
 
 
 <h1 align="center">
@@ -6,7 +6,7 @@
 </h1>
 
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=redhawk1303d.visitor-badge&left_color=red&right_color=green) 
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Priyanshu1303d.visitor-badge&left_color=red&right_color=green) 
 
 
 
@@ -36,12 +36,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redhawk1303d&show_icons=true&hide=contribs,prs&theme=radical" alt="Redhawk's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu1303d&show_icons=true&hide=contribs,prs&theme=radical" alt="Redhawk's GitHub Stats">
 </div>
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=redhawk1303d&theme=onedark)](https://github.com/redhawk1303d/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Priyanshu1303d&theme=onedark)](https://github.com/Priyanshu1303d/github-profile-trophy)
 
 <br clear="both">
 
