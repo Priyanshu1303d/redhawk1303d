@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&pause=500&color=00FFFF&background=FFFFFF00&center=true&vCenter=true&random=false&width=451&height=65&lines=In+the+realm+of+AI%2C+;imagination+knows+no+bounds." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&pause=500&color=40E0D0&background=FFFFFF00&center=true&vCenter=true&random=false&width=451&height=65&lines=In+the+realm+of+AI%2C+;imagination+knows+no+bounds." alt="Typing SVG" /></a>
 </h1>
 
 
@@ -53,12 +53,15 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </p>
 
 
+<br>
 
-###
+### 📊 GitHub Stats:
+![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshu1303d&show_icons=true&theme=dark&hide_border=false&bg_color=0D1117&title_color=FFFFFF&icon_color=40E0D0&text_color=C9D1D9)
+[![GitHub Streak](https://streak-stats.demolab.com?user=priyanshu1303d&theme=dark&hide_border=false&background=0D1117&text_color=4682B4&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=40E0D0&dates=40E0D0&sideNums=40E0D0&fire=40E0D0&ring=40E0D0&stroke=40E0D0)](https://git.io/streak-stats)
+<br>
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshu1303d&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=4682B4&hide_border=false)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu1303d&show_icons=true&hide=contribs,prs&theme=radical" alt="Redhawk's GitHub Stats">
-</div>
+<br>
 
 <br>
 
