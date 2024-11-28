@@ -67,5 +67,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Priyanshu1303d&theme=onedark)](https://github.com/Priyanshu1303d/github-profile-trophy)
 
+### 🐍 Contribution Snake
+
+![GitHub Snake Animation](https://github.com/priyanshu1303d/priyanshu1303d/blob/output/github-contribution-grid-snake.svg)
+
+
 <br clear="both">
 
